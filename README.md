@@ -19,9 +19,10 @@ Clone the repository and install dependencies:
 ## Usage Example 
 
 ```bash
-git clone <your-repo-url>
-cd <repository-folder>
+git clone https://github.com/Hamza-Bchir/RandomForestClassifier.git
+cd RandomForestClassifier
 pip install -r requirements.txt
+
 ````
 
 Python 3.11+ is required.
