@@ -1,0 +1,23 @@
+# Byte-compiled / cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code settings
+.vscode/
+
+# Environment folders
+random_forest_env/
+pipelines/
+
+# Results / outputs
+experiences/
+results/
+
+# Jupyter / IPython checkpoints
+.ipynb_checkpoints/
+
+# OS generated files
+.DS_Store
+Thumbs.db
