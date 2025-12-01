@@ -7,11 +7,9 @@ __pycache__/
 # VS Code settings
 .vscode/
 
-# Environment folders
 random_forest_env/
 pipelines/
 
-# Results / outputs
 experiences/
 results/
 
